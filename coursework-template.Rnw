@@ -1,0 +1,21 @@
+\documentclass{article}
+
+\begin{document}
+
+\author{Alistair Quinn}
+\title{Course Work CM3111}
+\maketitle 
+
+\section{Data Exploration}
+\subsection{Dataset Choice}
+\subsection{Technology-Platform}
+\subsection{Problem Statement & Data Exploration}
+\subsection{Pre-processing}
+
+\section{Modelling/Classification}
+
+\section{Improving Performance}
+
+\section{Reproducing Results}
+
+\end{document}
